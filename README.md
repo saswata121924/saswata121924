@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saswata Deb
-- 💞️ I’m looking to collaborate on C++ projects.
+- 💞️ I’m looking to collaborate on Java & Python projects.
 - 📫 How to reach me: saswata121924@gmail.com
 
 <!---
